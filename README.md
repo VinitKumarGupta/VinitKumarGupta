@@ -12,7 +12,7 @@
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)  
     ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)  
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)  
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)  
+    ![Java](https://img.shields.io/badge/Java-%23007396.svg?&style=flat-square&logo=java&logoColor=white)  
     ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)  
     ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat-square&logo=c&logoColor=white)
   - **Technologies:**  
@@ -29,6 +29,8 @@
   ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white)
 - **Development Environments:**  
   ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=flat-square&logo=intellij-idea&logoColor=white)  
+  ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=flat-square&logo=pycharm&logoColor=white)
 
 ---
 
