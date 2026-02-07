@@ -75,13 +75,3 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 ![](https://github-readme-stats.vercel.app/api?username=VinitKumarGupta&theme=github_dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VinitKumarGupta&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitKumarGupta&theme=github_dark&hide_border=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=VinitKumarGupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## ☕ Support My Work  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/VinitKumarGupta)
