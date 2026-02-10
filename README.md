@@ -64,7 +64,6 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 
 ### IoT & Tools  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/Platform-ESP32-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
