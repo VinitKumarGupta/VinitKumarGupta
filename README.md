@@ -1,20 +1,23 @@
-### Building practical software, intelligent systems, and real-world solutions 🚀
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/VinitKumarGupta/VinitKumarGupta/main/assets/fbc6f31bd3b84159470b973aca7e0f97.gif"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VinitKumarGupta&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
+</p>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
-
-# 💫 About Me  
+# 👨‍💻 About Me  
 
 Hey! I’m an aspiring **Software Developer** who enjoys building things that actually solve real-world problems.  
 I have hands-on experience with **MERN stack web development** and love turning ideas into clean, usable applications.  
 
 I actively practice **Data Structures & Algorithms** and mostly code in **Java, Python, and JavaScript**.  
-Outside pure software, I’m an **IoT hobbyist**—I enjoy blending hardware with intelligent systems and experimenting hands-on.  
+Outside pure software, I’m an **IoT hobbyist** ⚡ I enjoy blending hardware with intelligent systems and experimenting hands-on.  
 
 Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learning through projects rather than just theory.  
 
-😁 **Fun Fact:** I can communicate in **German (CEFR B1 level)**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=VinitKumarGupta&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -27,7 +30,7 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack Experience  
 
 ### Languages  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,13 +68,8 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 
 ### IoT & Tools  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=VinitKumarGupta&theme=github_dark&hide_border=false&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VinitKumarGupta&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinitKumarGupta&theme=github_dark&hide_border=false&layout=compact)
