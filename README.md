@@ -23,6 +23,7 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitgupta973)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@VinitKumarGupta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinitcloud.ai@gmail.com)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-imwizard-2C2C2C?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/imwizard)
 
 ---
 
