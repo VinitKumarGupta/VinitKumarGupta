@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
 </p>
 
+
 # 👨‍💻 About Me  
 
 Hey! I’m an aspiring **Software Developer** who enjoys building things that actually solve real-world problems.  
@@ -17,7 +18,10 @@ Outside pure software, I’m an **IoT hobbyist** ⚡ I enjoy blending hardware w
 Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learning through projects rather than just theory.  
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=VinitKumarGupta&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/Typing%20Speed-100%2B%20WPM-brightgreen?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=VinitKumarGupta&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
@@ -25,7 +29,7 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitgupta973)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinitcloud.ai@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@VinitKumarGupta)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-imwizard-2C2C2C?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/imwizard)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-2C2C2C?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/imwizard)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinitgupta31x)
 
 ---
@@ -37,12 +41,13 @@ Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learn
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Web & Backend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
