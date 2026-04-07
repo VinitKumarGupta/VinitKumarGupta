@@ -10,12 +10,12 @@
 # 👨‍💻 About Me  
 
 Hey! I’m an aspiring **Software Developer** who enjoys building things that actually solve real-world problems.  
-I have hands-on experience with **MERN stack web development** and love turning ideas into clean, usable applications.  
+I have hands-on experience with **AI, Machine Learning, and Computer Vision** where I enjoy building intelligent systems through practical projects.  
 
 I actively practice **Data Structures & Algorithms** and mostly code in **Java, Python, and JavaScript**.  
 Outside pure software, I’m an **IoT hobbyist** ⚡ I enjoy blending hardware with intelligent systems and experimenting hands-on.  
 
-Currently, I’m focused on **AI, Machine Learning, and Computer Vision**, learning through projects rather than just theory.  
+Currently, I’m focused on **MERN stack web development** and love turning ideas into clean, usable applications. 
 
 
 <p align="center">
