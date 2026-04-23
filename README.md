@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Systems;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Building+Skills+%E2%80%A2+Solving+Problems;Learning+Something+New+Everyday+%E2%9C%A8" />
 </p>
 
 
