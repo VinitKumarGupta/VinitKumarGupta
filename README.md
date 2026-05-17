@@ -30,5 +30,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinitgupta973) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinitcloud.ai@gmail.com) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@VinitKumarGupta) 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-2C2C2C?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/imwizard) 
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-2C2C2C?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/imwizard) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinitgupta31x)
